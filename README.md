@@ -42,7 +42,7 @@
 ![Team](https://github.com/Alec-Hudson24/Stair-Climbing-Robot/blob/main/Team%20Photo.JPG)
 *Team Photo*
 
-![Finished Stair-Climbing Robot]()
+![Finished Stair-Climbing Robot](https://github.com/Alec-Hudson24/Stair-Climbing-Robot/blob/main/Full%20Body%20View.jpeg)
 *Finished Robot at the top of steps*
 
 
