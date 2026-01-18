@@ -39,7 +39,7 @@
 - Battery-powered drive system with runtime optimization
 
 ## Visuals
-![Finished Stair-Climbing Robot]()
+![Finished Stair-Climbing Robot](https://github.com/Alec-Hudson24/Stair-Climbing-Robot/blob/main/Team%20Photo.JPG)
 *Completed prototype ready for stair ascent*
 
 
