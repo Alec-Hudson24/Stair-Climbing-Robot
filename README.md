@@ -25,13 +25,13 @@
 
 ## Project Links & Resources
 - **Demo & Testing Video** (full stair climb + flat rolling + assembly time-lapse):  
-  [Stair Climbing Robot Video]()
+  [Stair Climbing Robot Video](https://www.youtube.com/watch?v=xAswqLGfoRQ)
 - **Bill of Materials** (parts list with sources and costs):  
-  [Bill of Materials.pdf]()
+  [Bill of Materials.pdf](https://github.com/Alec-Hudson24/Stair-Climbing-Robot/blob/main/Bill%20of%20Materials.pdf)
 - **Drawing Package** (detailed manufacturing drawings, tolerances, assembly views):  
-  [Stairclimber Drawing Package.pdf]()
+  [Stairclimber Drawing Package.pdf](https://github.com/Alec-Hudson24/Stair-Climbing-Robot/blob/main/Stairclimber%20Drawing%20Package.pdf)
 - **Step by step demo** (detailed images showcasing the mechanisms):  
-  [Stairclimber showcase.pdf]()
+  [Stairclimber Operation Showcase.pdf](https://github.com/Alec-Hudson24/Stair-Climbing-Robot/blob/main/Operation%20Simulation.pdf)
 
   ## Future Improvements / Ideas
 - increase reliability and smoothness on flat ground
